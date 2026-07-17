@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Selvassuben S
 
-### Full Stack Developer • Javasccript • React.js • Node.js • Express.js • JavaScript • MySQL • AWS
+### Full Stack Developer • Javascript • React.js • Node.js • Express.js • JavaScript • MySQL • AWS
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;javascript+%7C+React.js+%7C+Node.js+%7C+AWS;Always+Learning+New+Technologies" />
 
